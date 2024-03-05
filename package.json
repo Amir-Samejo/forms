@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.0"
+    "react": "latest",
+    "react-dom": "latest",
+    "next": "14.1.0",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "latest",
+    "dayjs": "^1.11.10"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
